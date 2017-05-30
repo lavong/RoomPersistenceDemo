@@ -6,6 +6,8 @@ Sample code demonstrating the use of the [Room Persistence Library][1], [RxJava2
   * kotlin data classes
   * data observation using rxjava2
 
+![](art/room-persistence-demo.gif "room persistence demo")
+
 #  License
 
     Copyright 2017 Lavong Soysavanh
